@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673085031 source:d:\semester 3\struktur data smt03\tugas\final_project\finalproject.cpp
+	"finalproject.h"
+
+1673065331 d:\semester 3\struktur data smt03\tugas\final_project\finalproject.h
+	<iostream>
+
+1673065331 source:d:\semester 3\struktur data smt03\tugas\final_project\main.cpp
+	"finalproject.h"
+
+1673085032 source:c:\troy data\document\kuliah telkom\semester 5\struktur data\tugas\code\final_project\finalproject.cpp
+	"finalproject.h"
+
+1673065332 c:\troy data\document\kuliah telkom\semester 5\struktur data\tugas\code\final_project\finalproject.h
+	<iostream>
+
+1673065332 source:c:\troy data\document\kuliah telkom\semester 5\struktur data\tugas\code\final_project\main.cpp
+	"finalproject.h"
+
